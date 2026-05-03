@@ -32,7 +32,7 @@ It is fully self-hosted, giving you complete control over your data and deployme
 - Easy setup, ready to use on your own server
 - Free for personal and non-commercial projects
 
-[Download Prebuilt Installation](https://oxlab.app/download.php?type=personal)
+[Download Prebuilt Installation](https://oxlab.app/pricing.php)
 
 ---
 
@@ -41,7 +41,7 @@ It is fully self-hosted, giving you complete control over your data and deployme
 - Modify, extend, and integrate Taskion into your company or client projects
 - Free for commercial use, but voluntary support is welcome
 
-[Get Source Code](https://oxlab.app/download.php?type=commercial)
+[Get Source Code](https://oxlab.app/pricing.php)
 
 ---
 
