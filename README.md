@@ -56,7 +56,7 @@ It is fully self-hosted, giving you complete control over your data and deployme
 
 Taskion is free for both personal and commercial use.  
 **You are not allowed to resell Taskion or offer it as your own product.**  
-See the [License Agreement](https://oxlab.app/licence.php) for details.
+See the [License Agreement](https://oxlab.app/license.php) for details.
 
 ---
 
