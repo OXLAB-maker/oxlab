@@ -62,5 +62,5 @@ See the [License Agreement](https://oxlab.app/licence.php) for details.
 
 ## Stay Connected
 
-- GitHub: [github.com/oxlab](https://github.com/oxlab)
+- GitHub: [github.com/oxlab](https://github.com/oxlab-maker)
 - Email: office@oxlab.app
