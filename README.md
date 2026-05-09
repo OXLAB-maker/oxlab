@@ -32,7 +32,7 @@ It is fully self-hosted, giving you complete control over your data and deployme
 - Easy setup, ready to use on your own server
 - Free for personal and non-commercial projects
 
-[Download Prebuilt Installation](https://oxlab.app/pricing.php)
+[Download Prebuilt Installation](https://oxlab.app/pricing)
 
 ---
 
@@ -41,14 +41,14 @@ It is fully self-hosted, giving you complete control over your data and deployme
 - Modify, extend, and integrate Taskion into your company or client projects
 - Free for commercial use, but voluntary support is welcome
 
-[Get Source Code](https://oxlab.app/pricing.php)
+[Get Source Code](https://oxlab.app/pricing)
 
 ---
 
 ## Documentation & Support
 
-- [FAQ](https://oxlab.app/faq.php) — Frequently Asked Questions
-- [Contact](https://oxlab.app/contact.php) — Ask us anything, we usually reply within 1–2 business days
+- [FAQ](https://oxlab.app/faq) — Frequently Asked Questions
+- [Contact](https://oxlab.app/contact) — Ask us anything, we usually reply within 1–2 business days
 
 ---
 
@@ -56,7 +56,7 @@ It is fully self-hosted, giving you complete control over your data and deployme
 
 Taskion is free for both personal and commercial use.  
 **You are not allowed to resell Taskion or offer it as your own product.**  
-See the [License Agreement](https://oxlab.app/license.php) for details.
+See the [License Agreement](https://oxlab.app/licence) for details.
 
 ---
 
